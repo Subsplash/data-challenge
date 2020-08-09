@@ -27,3 +27,25 @@ The first resource is a CSV file containing hypothetical election data.
 2. DML : Store the results (from Challenge 1)
 
 3. Report : Query and display the stored data, to verify that it's accurate
+
+# References
+
+## Example Results
+```text
+Election Results
+------------------------------------------
+Total Votes: n,nnn,nnn
+------------------------------------------
+Votes by county:
+County1: n.nn% (nnn,nnn)
+County2: n.nn% (nnn,nnn)
+County3: n.nn% (nnn,nnn)
+------------------------------------------
+Votes by candidate:
+Candidate1: n.nn% (nnn,nnn)
+Candidate2: n.nn% (nnn,nnn)
+Candidate3: n.nn% (nnn,nnn)
+------------------------------------------
+Winner: Candidate?
+------------------------------------------
+```
