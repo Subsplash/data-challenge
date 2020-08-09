@@ -1,0 +1,1 @@
+-- 2. DML : Store the elections results (from Challenge 1)

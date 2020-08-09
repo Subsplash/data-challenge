@@ -1,0 +1,1 @@
+-- 1. DDL : Create schema and table(s) for the election results
